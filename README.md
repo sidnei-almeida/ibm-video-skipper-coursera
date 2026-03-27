@@ -69,6 +69,13 @@ This extension does not judge the creative direction of corporate bumper audio. 
 
 Constants are defined in `content.js` (`INTRO_SEC`, `OUTRO_SEC`) and can be adjusted for future bumper-length changes.
 
+<p align="center">
+  <img src="images/edited_print_screen.png" alt="Example of intro/outro skip in action on a Coursera IBM lecture" width="920" />
+</p>
+<p align="center">
+  <em>Example playback capture: the extension automatically skips the branded intro and jumps past the outro segment.</em>
+</p>
+
 ### IBM course detection (multi-signal)
 
 Many IBM courses **do not** include `ibm` in the URL slug. The extension therefore uses a **layered classifier** that combines:
