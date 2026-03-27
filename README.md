@@ -133,6 +133,40 @@ No `storage` API or options page is required for the default behavior.
 
 ---
 
+## IBM course scraper (Selenium + Chrome)
+
+To continuously refresh IBM course coverage from Coursera search results (`query=ibm`), use the scraper:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python scripts/scrape_ibm_coursera.py --headless --update-content-js content.js
+```
+
+Use your AUR/paru Chrome explicitly if needed:
+
+```bash
+python scripts/scrape_ibm_coursera.py --headless --chrome-binary google-chrome-stable --update-content-js content.js
+```
+
+Outputs:
+
+- `data/ibm_courses.json` (title, href, slug, partner)
+- `data/ibm_course_slugs.txt` (slugs only)
+- `data/ibm_courses.js` (`IBM_COURSES` export, ready for JS usage)
+- auto-updates `IBM_KNOWN_COURSE_SLUGS` block inside `content.js`
+
+Console report:
+
+- prints every discovered course in a professional line format:
+  - `COURSE FOUND: <title> | partner=IBM | slug=<slug> | is_coursera=YES|NO`
+- scrolling control:
+  - stops after consecutive rounds with no new IBM courses (`--no-new-rounds-stop`, default `4`)
+  - safety cap on total rounds (`--max-scroll-rounds`, default `250`)
+
+---
+
 ## Known limitations
 
 - **Cross-origin iframes:** if the lecture video is embedded in a frame whose origin does not carry the same document metadata or scripts, IBM detection may not run in that frame’s context. This is a structural constraint of browser security boundaries.
@@ -164,4 +198,4 @@ No `storage` API or options page is required for the default behavior.
 
 ## License
 
-No license file is present in this repository yet. Add a `LICENSE` of your choice before redistribution if you require explicit terms.
+This project is licensed under the **MIT License**. See `LICENSE` for full terms.

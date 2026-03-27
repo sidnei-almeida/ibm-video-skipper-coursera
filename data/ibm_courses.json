@@ -1,0 +1,2333 @@
+[
+  {
+    "title": "Deep Learning with PyTorch",
+    "href": "https://www.coursera.org/learn/advanced-deep-learning-with-pytorch",
+    "slug": "advanced-deep-learning-with-pytorch",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Advanced RAG with Vector Databases and Retrievers",
+    "href": "https://www.coursera.org/learn/advanced-rag-with-vector-databases-and-retrievers",
+    "slug": "advanced-rag-with-vector-databases-and-retrievers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Agentic AI with LangChain and LangGraph",
+    "href": "https://www.coursera.org/learn/agentic-ai-with-langchain-and-langgraph",
+    "slug": "agentic-ai-with-langchain-and-langgraph",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Agentic AI with LangGraph, CrewAI, AutoGen and BeeAI",
+    "href": "https://www.coursera.org/learn/agentic-ai-with-langgraph-crewai-autogen-and-beeai",
+    "slug": "agentic-ai-with-langgraph-crewai-autogen-and-beeai",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Agile Development and Scrum",
+    "href": "https://www.coursera.org/learn/agile-development-and-scrum",
+    "slug": "agile-development-and-scrum",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AI Capstone Project with Deep Learning",
+    "href": "https://www.coursera.org/learn/ai-deep-learning-capstone",
+    "slug": "ai-deep-learning-capstone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM AI Engineering",
+    "href": "https://www.coursera.org/professional-certificates/ai-engineer",
+    "slug": "ai-engineer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AI Foundations for Everyone",
+    "href": "https://www.coursera.org/specializations/ai-foundations-for-everyone",
+    "slug": "ai-foundations-for-everyone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AIX Operating System Fundamentals",
+    "href": "https://www.coursera.org/learn/aix-basics",
+    "slug": "aix-basics",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Application Modernization for Enterprise Systems",
+    "href": "https://www.coursera.org/learn/application-modernization-for-enterprise-systems",
+    "slug": "application-modernization-for-enterprise-systems",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Application Security for Developers and DevOps Professionals",
+    "href": "https://www.coursera.org/learn/application-security-for-developers-devops",
+    "slug": "application-security-for-developers-devops",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Application Development using Microservices and Serverless",
+    "href": "https://www.coursera.org/learn/applications-development-microservices-serverless-openshift",
+    "slug": "applications-development-microservices-serverless-openshift",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM AI Developer",
+    "href": "https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai",
+    "slug": "applied-artifical-intelligence-ibm-watson-ai",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Applied Data Science",
+    "href": "https://www.coursera.org/specializations/applied-data-science",
+    "slug": "applied-data-science",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Applied Data Science Capstone",
+    "href": "https://www.coursera.org/learn/applied-data-science-capstone",
+    "slug": "applied-data-science-capstone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Applied Data Science with R",
+    "href": "https://www.coursera.org/specializations/applied-data-science-r",
+    "slug": "applied-data-science-r",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Architecting Applications for IBM Z and Cloud",
+    "href": "https://www.coursera.org/learn/architecting-applications-ibm-z-cloud",
+    "slug": "architecting-applications-ibm-z-cloud",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Back-end Application Development Capstone Project",
+    "href": "https://www.coursera.org/learn/backend-development-capstone-project",
+    "slug": "backend-development-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM JavaScript Backend Developer",
+    "href": "https://www.coursera.org/professional-certificates/backend-javascript-developer",
+    "slug": "backend-javascript-developer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Bases de Inteligencia Artificial para Todos",
+    "href": "https://www.coursera.org/professional-certificates/bases-de-inteligencia-artificial-para-todos",
+    "slug": "bases-de-inteligencia-artificial-para-todos",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Business Intelligence (BI) Analyst",
+    "href": "https://www.coursera.org/professional-certificates/bi-analyst",
+    "slug": "bi-analyst",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "BI Dashboards with IBM Cognos Analytics and Google Looker",
+    "href": "https://www.coursera.org/learn/bi-dashboards-with-ibm-cognos-analytics-and-google-looker",
+    "slug": "bi-dashboards-with-ibm-cognos-analytics-and-google-looker",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "BI Foundations with SQL, ETL and Data Warehousing",
+    "href": "https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse",
+    "slug": "bi-foundations-sql-etl-data-warehouse",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Build AI Agents using MCP",
+    "href": "https://www.coursera.org/learn/build-ai-agents-using-mcp",
+    "slug": "build-ai-agents-using-mcp",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Build Multimodal Generative AI Applications",
+    "href": "https://www.coursera.org/learn/build-multimodal-generative-ai-applications",
+    "slug": "build-multimodal-generative-ai-applications",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Build RAG Applications: Get Started",
+    "href": "https://www.coursera.org/learn/build-rag-applications-get-started",
+    "slug": "build-rag-applications-get-started",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Building AI Agents and Agentic Workflows",
+    "href": "https://www.coursera.org/specializations/building-ai-agents-and-agentic-workflows",
+    "slug": "building-ai-agents-and-agentic-workflows",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Building AI Powered Chatbots Without Programming",
+    "href": "https://www.coursera.org/learn/building-ai-powered-chatbots",
+    "slug": "building-ai-powered-chatbots",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Deep Learning with Keras and Tensorflow",
+    "href": "https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow",
+    "slug": "building-deep-learning-models-with-tensorflow",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Building Generative AI-Powered Applications with Python",
+    "href": "https://www.coursera.org/learn/building-gen-ai-powered-applications",
+    "slug": "building-gen-ai-powered-applications",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Business Intelligence (BI) Essentials",
+    "href": "https://www.coursera.org/learn/business-intelligence-essentials",
+    "slug": "business-intelligence-essentials",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Capstone Project: Digital Marketing and Growth Hacking",
+    "href": "https://www.coursera.org/learn/capstone-project--digital-marketing-and-growth-hacking",
+    "slug": "capstone-project--digital-marketing-and-growth-hacking",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Capstone Project: Applying Business Analysis Skills",
+    "href": "https://www.coursera.org/learn/capstone-project-applying-business-analysis-skills",
+    "slug": "capstone-project-applying-business-analysis-skills",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Analyst Career Guide and Interview Preparation",
+    "href": "https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-analyst",
+    "slug": "career-guide-and-interview-prep-for-data-analyst",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Scientist Career Guide and Interview Preparation",
+    "href": "https://www.coursera.org/learn/career-guide-and-interview-prep-for-data-science-pc",
+    "slug": "career-guide-and-interview-prep-for-data-science-pc",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Get Started with Cloud Native, DevOps, Agile, and NoSQL",
+    "href": "https://www.coursera.org/learn/cloud-native-devops-agile-nosql",
+    "slug": "cloud-native-devops-agile-nosql",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Cloud Native, Microservices, Containers, DevOps and Agile",
+    "href": "https://www.coursera.org/learn/cloud-native-microservices-containers-devops-agile",
+    "slug": "cloud-native-microservices-containers-devops-agile",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Cloud Operations, Monitoring, Security, and Compliance",
+    "href": "https://www.coursera.org/learn/cloud-operations-monitoring-security-and-compliance",
+    "slug": "cloud-operations-monitoring-security-and-compliance",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM COBOL Data and File Management",
+    "href": "https://www.coursera.org/learn/cobol-data-file-management",
+    "slug": "cobol-data-file-management",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "COBOL Programming with VSCode",
+    "href": "https://www.coursera.org/learn/cobol-programming-vscode",
+    "slug": "cobol-programming-vscode",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM COBOL Basic Testing and Debugging",
+    "href": "https://www.coursera.org/learn/cobol-testing-debugging",
+    "slug": "cobol-testing-debugging",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Continuous Integration and Continuous Delivery (CI/CD)",
+    "href": "https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd",
+    "slug": "continuous-integration-and-continuous-delivery-ci-cd",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Core 1: Hardware and Network Troubleshooting",
+    "href": "https://www.coursera.org/learn/core1-hardware-and-network-troubleshooting",
+    "slug": "core1-hardware-and-network-troubleshooting",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Core 2: OS, Software, Security and Operational Procedures",
+    "href": "https://www.coursera.org/learn/core2-os-software-security-and-operational-procedures",
+    "slug": "core2-os-software-security-and-operational-procedures",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Cybersecurity Architecture",
+    "href": "https://www.coursera.org/learn/cybersecurity-architecture",
+    "slug": "cybersecurity-architecture",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Cybersecurity Assessment: CompTIA Security+ & CYSA+",
+    "href": "https://www.coursera.org/learn/cybersecurity-assessment-comptia-security-cysa",
+    "slug": "cybersecurity-assessment-comptia-security-cysa",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Cybersecurity Case Studies and Capstone Project",
+    "href": "https://www.coursera.org/learn/cybersecurity-case-studies-capstone-project",
+    "slug": "cybersecurity-case-studies-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Cybersecurity Compliance Framework, Standards & Regulations",
+    "href": "https://www.coursera.org/learn/cybersecurity-compliance-framework-standards-regulations",
+    "slug": "cybersecurity-compliance-framework-standards-regulations",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Cybersecurity Fundamentals",
+    "href": "https://www.coursera.org/specializations/cybersecurity-fundamentals",
+    "slug": "cybersecurity-fundamentals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Cybersecurity Job Search, Resume, and Interview Prep",
+    "href": "https://www.coursera.org/learn/cybersecurity-job-search-resume-and-interview-prep",
+    "slug": "cybersecurity-job-search-resume-and-interview-prep",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Analysis and Visualization Foundations",
+    "href": "https://www.coursera.org/specializations/data-analysis-visualization-foundations",
+    "slug": "data-analysis-visualization-foundations",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Assessment for Data Analysis and Visualization Foundations",
+    "href": "https://www.coursera.org/learn/data-analysis-visualization-foundations-assessment",
+    "slug": "data-analysis-visualization-foundations-assessment",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Analysis with Python",
+    "href": "https://www.coursera.org/learn/data-analysis-with-python",
+    "slug": "data-analysis-with-python",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Analysis with R",
+    "href": "https://www.coursera.org/learn/data-analysis-with-r",
+    "slug": "data-analysis-with-r",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Engineering Career Guide and Interview Preparation",
+    "href": "https://www.coursera.org/learn/data-engineering-career-guide-and-interview-preparation",
+    "slug": "data-engineering-career-guide-and-interview-preparation",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Engineering Foundations",
+    "href": "https://www.coursera.org/specializations/data-engineering-foundations",
+    "slug": "data-engineering-foundations",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Engineering Capstone Project",
+    "href": "https://www.coursera.org/learn/data-enginering-capstone-project",
+    "slug": "data-enginering-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Science Fundamentals with Python and SQL",
+    "href": "https://www.coursera.org/specializations/data-science-fundamentals-python-sql",
+    "slug": "data-science-fundamentals-python-sql",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Science Methodology",
+    "href": "https://www.coursera.org/learn/data-science-methodology",
+    "slug": "data-science-methodology",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Science with R - Capstone Project",
+    "href": "https://www.coursera.org/learn/data-science-with-r-capstone-project",
+    "slug": "data-science-with-r-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Visualization and Dashboards with Excel and Cognos",
+    "href": "https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos",
+    "slug": "data-visualization-dashboards-excel-cognos",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Visualization with R",
+    "href": "https://www.coursera.org/learn/data-visualization-r",
+    "slug": "data-visualization-r",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Warehouse Engineer",
+    "href": "https://www.coursera.org/professional-certificates/data-warehouse-engineering",
+    "slug": "data-warehouse-engineering",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Warehouse Fundamentals",
+    "href": "https://www.coursera.org/learn/data-warehouse-fundamentals",
+    "slug": "data-warehouse-fundamentals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Warehousing Capstone Project",
+    "href": "https://www.coursera.org/learn/data-warehousing-capstone-project",
+    "slug": "data-warehousing-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Database Essentials and Vulnerabilities",
+    "href": "https://www.coursera.org/learn/database-essentials-and-vulnerabilities",
+    "slug": "database-essentials-and-vulnerabilities",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Deep Learning and Reinforcement Learning",
+    "href": "https://www.coursera.org/learn/deep-learning-reinforcement-learning",
+    "slug": "deep-learning-reinforcement-learning",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Neural Networks and PyTorch",
+    "href": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch",
+    "slug": "deep-neural-networks-with-pytorch",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Delivering Quality Work with Agility",
+    "href": "https://www.coursera.org/learn/delivering-quality-work-with-agility",
+    "slug": "delivering-quality-work-with-agility",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Designing Hybrid and Multicloud Architectures",
+    "href": "https://www.coursera.org/learn/designing-hybrid-and-multicloud-architectures",
+    "slug": "designing-hybrid-and-multicloud-architectures",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Designing User Interfaces and Experiences (UI/UX)",
+    "href": "https://www.coursera.org/learn/designing-user-interfaces-and-experiences-uiux",
+    "slug": "designing-user-interfaces-and-experiences-uiux",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Develop Generative AI Applications: Get Started",
+    "href": "https://www.coursera.org/learn/develop-generative-ai-applications-get-started",
+    "slug": "develop-generative-ai-applications-get-started",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Django Application Development with SQL and Databases",
+    "href": "https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django",
+    "slug": "developing-applications-with-sql-databases-and-django",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Developing Back-End Apps with Node.js and Express",
+    "href": "https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express",
+    "slug": "developing-backend-apps-with-nodejs-and-express",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Developing Front-End Apps with React",
+    "href": "https://www.coursera.org/learn/developing-frontend-apps-with-react",
+    "slug": "developing-frontend-apps-with-react",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Developing Mobile Apps with Flutter",
+    "href": "https://www.coursera.org/specializations/developing-mobile-apps-with-flutter",
+    "slug": "developing-mobile-apps-with-flutter",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Developing Mobile Apps with React Native",
+    "href": "https://www.coursera.org/specializations/developing-mobile-apps-with-react-native",
+    "slug": "developing-mobile-apps-with-react-native",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Developing Websites and Front-Ends with Bootstrap",
+    "href": "https://www.coursera.org/learn/developing-websites-and-front-ends-with-bootstrap",
+    "slug": "developing-websites-and-front-ends-with-bootstrap",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM DevOps and Software Engineering",
+    "href": "https://www.coursera.org/professional-certificates/devops-and-software-engineering",
+    "slug": "devops-and-software-engineering",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "DevOps Capstone Project",
+    "href": "https://www.coursera.org/learn/devops-capstone-project",
+    "slug": "devops-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM DevOps, Cloud, and Agile Foundations",
+    "href": "https://www.coursera.org/specializations/devops-cloud-and-agile-foundations",
+    "slug": "devops-cloud-and-agile-foundations",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM & Darden Digital Strategy",
+    "href": "https://www.coursera.org/specializations/digital-strategy",
+    "slug": "digital-strategy",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Encryption and Cryptography Essentials",
+    "href": "https://www.coursera.org/learn/encryption-and-cryptography-essentials",
+    "slug": "encryption-and-cryptography-essentials",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Enterprise Resiliency",
+    "href": "https://www.coursera.org/learn/enterprise-resiliency",
+    "slug": "enterprise-resiliency",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Ethical Hacking Capstone Project: Breach, Response, AI",
+    "href": "https://www.coursera.org/learn/ethical-hacking-capstone-project-breach-response-ai",
+    "slug": "ethical-hacking-capstone-project-breach-response-ai",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Ethical Hacking with Kali Linux",
+    "href": "https://www.coursera.org/learn/ethical-hacking-with-kali-linux",
+    "slug": "ethical-hacking-with-kali-linux",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "ETL and Data Pipelines with Shell, Airflow and Kafka",
+    "href": "https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka",
+    "slug": "etl-and-data-pipelines-shell-airflow-kafka",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Excel Basics for Data Analysis",
+    "href": "https://www.coursera.org/learn/excel-basics-data-analysis-ibm",
+    "slug": "excel-basics-data-analysis-ibm",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Exploitation and Penetration Testing with Metasploit",
+    "href": "https://www.coursera.org/learn/exploitation-and-penetration-testing-with-metasploit",
+    "slug": "exploitation-and-penetration-testing-with-metasploit",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Flutter and Dart: Developing iOS, Android, and Mobile Apps",
+    "href": "https://www.coursera.org/learn/flutter-and-dart-developing-ios-android-mobile-apps",
+    "slug": "flutter-and-dart-developing-ios-android-mobile-apps",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Front-End Development Capstone Project",
+    "href": "https://www.coursera.org/learn/front-end-development-capstone-project",
+    "slug": "front-end-development-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Full Stack Software Developer Assessment",
+    "href": "https://www.coursera.org/learn/full-stack-software-developer-assessment",
+    "slug": "full-stack-software-developer-assessment",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Fundamentals of AI Agents Using RAG and LangChain",
+    "href": "https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain",
+    "slug": "fundamentals-of-ai-agents-using-rag-and-langchain",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Fundamentals of Building AI Agents",
+    "href": "https://www.coursera.org/learn/fundamentals-of-building-ai-agents",
+    "slug": "fundamentals-of-building-ai-agents",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Gen AI Foundational Models for NLP & Language Understanding",
+    "href": "https://www.coursera.org/learn/gen-ai-foundational-models-for-nlp-and-language-understanding",
+    "slug": "gen-ai-foundational-models-for-nlp-and-language-understanding",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "GenAI for Execs & Business Leaders: Formulate Your Use Case",
+    "href": "https://www.coursera.org/learn/genai-for-execs-business-leaders-formulate-your-use-case",
+    "slug": "genai-for-execs-business-leaders-formulate-your-use-case",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "GenAI for SEO: A Hands-On Playbook",
+    "href": "https://www.coursera.org/learn/genai-for-seo-a-hands-on-playbook",
+    "slug": "genai-for-seo-a-hands-on-playbook",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Accelerate your Digital Marketing Career",
+    "href": "https://www.coursera.org/learn/generative-ai--accelerate-your-digital-marketing-career",
+    "slug": "generative-ai--accelerate-your-digital-marketing-career",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI Advance Fine-Tuning for LLMs",
+    "href": "https://www.coursera.org/learn/generative-ai-advanced-fine-tuning-for-llms",
+    "slug": "generative-ai-advanced-fine-tuning-for-llms",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Boost Your Cybersecurity Career",
+    "href": "https://www.coursera.org/learn/generative-ai-boost-your-cybersecurity-career",
+    "slug": "generative-ai-boost-your-cybersecurity-career",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Boost Your Sales Career",
+    "href": "https://www.coursera.org/learn/generative-ai-boost-your-sales-career",
+    "slug": "generative-ai-boost-your-sales-career",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Business Transformation and Career Growth",
+    "href": "https://www.coursera.org/learn/generative-ai-business-and-career-growth",
+    "slug": "generative-ai-business-and-career-growth",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Educators",
+    "href": "https://www.coursera.org/specializations/generative-ai-educators",
+    "slug": "generative-ai-educators",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Elevate your Software Development Career",
+    "href": "https://www.coursera.org/learn/generative-ai-elevate-software-development-career",
+    "slug": "generative-ai-elevate-software-development-career",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Elevate your Data Engineering Career",
+    "href": "https://www.coursera.org/learn/generative-ai-elevate-your-data-engineering-career",
+    "slug": "generative-ai-elevate-your-data-engineering-career",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Elevate Your Data Science Career",
+    "href": "https://www.coursera.org/learn/generative-ai-elevate-your-data-science-career",
+    "slug": "generative-ai-elevate-your-data-science-career",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Empowering Modern Education",
+    "href": "https://www.coursera.org/learn/generative-ai-empowering-modern-education",
+    "slug": "generative-ai-empowering-modern-education",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI Engineering and Fine-Tuning Transformers",
+    "href": "https://www.coursera.org/learn/generative-ai-engineering-and-fine-tuning-transformers",
+    "slug": "generative-ai-engineering-and-fine-tuning-transformers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI Engineering with LLMs",
+    "href": "https://www.coursera.org/specializations/generative-ai-engineering-with-llms",
+    "slug": "generative-ai-engineering-with-llms",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Enhance your Data Analytics Career",
+    "href": "https://www.coursera.org/learn/generative-ai-enhance-your-data-analytics-career",
+    "slug": "generative-ai-enhance-your-data-analytics-career",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Impact, Considerations, and Ethical Issues",
+    "href": "https://www.coursera.org/learn/generative-ai-ethical-considerations-and-implications",
+    "slug": "generative-ai-ethical-considerations-and-implications",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Business Analysts",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-business-analysts",
+    "slug": "generative-ai-for-business-analysts",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Business Intelligence (BI) Analysts",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-business-intelligence-analysts",
+    "slug": "generative-ai-for-business-intelligence-analysts",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Customer Support",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-customer-support",
+    "slug": "generative-ai-for-customer-support",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Generative AI for Cybersecurity Professionals",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-cybersecurity-professionals",
+    "slug": "generative-ai-for-cybersecurity-professionals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Data Analysts",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-data-analysts",
+    "slug": "generative-ai-for-data-analysts",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Data Engineers",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-data-engineers",
+    "slug": "generative-ai-for-data-engineers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Data Scientists",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-data-scientists",
+    "slug": "generative-ai-for-data-scientists",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Digital Marketing",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-digital-marketing",
+    "slug": "generative-ai-for-digital-marketing",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI Fundamentals",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-everyone",
+    "slug": "generative-ai-for-everyone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Executives and Business Leaders",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-executives-and-business-leaders",
+    "slug": "generative-ai-for-executives-and-business-leaders",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "GenAI for Execs & Business Leaders: Integration Strategy",
+    "href": "https://www.coursera.org/learn/generative-ai-for-executives-and-business-leaders-integration-strategy",
+    "slug": "generative-ai-for-executives-and-business-leaders-integration-strategy",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "GenAI for Executives & Business Leaders: An Introduction",
+    "href": "https://www.coursera.org/learn/generative-ai-for-executives-business-leaders-introduction",
+    "slug": "generative-ai-for-executives-business-leaders-introduction",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Human Resources (HR) Professionals",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-human-resources",
+    "slug": "generative-ai-for-human-resources",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Java and Spring Developers",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-java-and-spring-developers",
+    "slug": "generative-ai-for-java-and-spring-developers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Mobile App Developers",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-mobile-app-developers",
+    "slug": "generative-ai-for-mobile-app-developers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Product Managers",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-product-managers",
+    "slug": "generative-ai-for-product-managers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Product Owners",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-product-owners",
+    "slug": "generative-ai-for-product-owners",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Program Managers",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-program-managers",
+    "slug": "generative-ai-for-program-managers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Project Managers",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-project-managers",
+    "slug": "generative-ai-for-project-managers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Sales Professionals",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-sales-professionals",
+    "slug": "generative-ai-for-sales-professionals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for Software Developers",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-software-developers",
+    "slug": "generative-ai-for-software-developers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for UI UX Design",
+    "href": "https://www.coursera.org/specializations/generative-ai-for-ui-ux-design",
+    "slug": "generative-ai-for-ui-ux-design",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Foundation Models and Platforms",
+    "href": "https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms",
+    "slug": "generative-ai-foundation-models-and-platforms",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Introduction and Applications",
+    "href": "https://www.coursera.org/learn/generative-ai-introduction-and-applications",
+    "slug": "generative-ai-introduction-and-applications",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI for IT Systems Analysts and Architects",
+    "href": "https://www.coursera.org/specializations/generative-ai-it-systems-analysts-and-architects",
+    "slug": "generative-ai-it-systems-analysts-and-architects",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI Language Modeling with Transformers",
+    "href": "https://www.coursera.org/learn/generative-ai-language-modeling-with-transformers",
+    "slug": "generative-ai-language-modeling-with-transformers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI and LLMs: Architecture and Data Preparation",
+    "href": "https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation",
+    "slug": "generative-ai-llm-architecture-data-preparation",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Generative AI: Prompt Engineering Basics",
+    "href": "https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone",
+    "slug": "generative-ai-prompt-engineering-for-everyone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Getting Started with Front-End and Web Development",
+    "href": "https://www.coursera.org/learn/getting-started-with-front-end-and-web-development",
+    "slug": "getting-started-with-front-end-and-web-development",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Getting Started with Git and GitHub",
+    "href": "https://www.coursera.org/learn/getting-started-with-git-and-github",
+    "slug": "getting-started-with-git-and-github",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Hands-on Introduction to Linux Commands and Shell Scripting",
+    "href": "https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting",
+    "slug": "hands-on-introduction-to-linux-commands-and-shell-scripting",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Hybrid Cloud Capstone Project",
+    "href": "https://www.coursera.org/learn/hybrid-cloud-capstone-project",
+    "slug": "hybrid-cloud-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Hybrid Cloud: Networking, Storage and Data Management",
+    "href": "https://www.coursera.org/learn/hybrid-cloud-networking-storage-systems-and-data-management",
+    "slug": "hybrid-cloud-networking-storage-systems-and-data-management",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM AI Foundations for Business",
+    "href": "https://www.coursera.org/specializations/ibm-ai-foundations-for-business",
+    "slug": "ibm-ai-foundations-for-business",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "The AI Ladder: A Framework for Deploying AI in your Enterprise",
+    "href": "https://www.coursera.org/learn/ibm-ai-ladder-framework",
+    "slug": "ibm-ai-ladder-framework",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM AI Product Manager",
+    "href": "https://www.coursera.org/professional-certificates/ibm-ai-product-manager",
+    "slug": "ibm-ai-product-manager",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM AI Enterprise Workflow",
+    "href": "https://www.coursera.org/specializations/ibm-ai-workflow",
+    "slug": "ibm-ai-workflow",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AI Workflow: AI in Production",
+    "href": "https://www.coursera.org/learn/ibm-ai-workflow-ai-production",
+    "slug": "ibm-ai-workflow-ai-production",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AI Workflow: Business Priorities and Data Ingestion",
+    "href": "https://www.coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion",
+    "slug": "ibm-ai-workflow-business-priorities-data-ingestion",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AI Workflow: Data Analysis and Hypothesis Testing",
+    "href": "https://www.coursera.org/learn/ibm-ai-workflow-data-analysis-hypothesis-testing",
+    "slug": "ibm-ai-workflow-data-analysis-hypothesis-testing",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AI Workflow: Feature Engineering and Bias Detection",
+    "href": "https://www.coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection",
+    "slug": "ibm-ai-workflow-feature-engineering-bias-detection",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AI Workflow: Enterprise Model Deployment",
+    "href": "https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-model-deployment",
+    "slug": "ibm-ai-workflow-machine-learning-model-deployment",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "AI Workflow: Machine Learning, Visual Recognition and NLP",
+    "href": "https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-vr-nlp",
+    "slug": "ibm-ai-workflow-machine-learning-vr-nlp",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Applied DevOps Engineering",
+    "href": "https://www.coursera.org/professional-certificates/ibm-applied-devops-engineering",
+    "slug": "ibm-applied-devops-engineering",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Back-End Development",
+    "href": "https://www.coursera.org/professional-certificates/ibm-backend-development",
+    "slug": "ibm-backend-development",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Business Analyst",
+    "href": "https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate",
+    "slug": "ibm-business-analyst-professional-certificate",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Full Stack Application Development Capstone Project",
+    "href": "https://www.coursera.org/learn/ibm-cloud-native-full-stack-development-capstone",
+    "slug": "ibm-cloud-native-full-stack-development-capstone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM COBOL Basics",
+    "href": "https://www.coursera.org/learn/ibm-cobol-basics",
+    "slug": "ibm-cobol-basics",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM COBOL Core",
+    "href": "https://www.coursera.org/learn/ibm-cobol-core",
+    "slug": "ibm-cobol-core",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Containers w/ Docker, Kubernetes & OpenShift",
+    "href": "https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift",
+    "slug": "ibm-containers-docker-kubernetes-openshift",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Cybersecurity Analyst",
+    "href": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst",
+    "slug": "ibm-cybersecurity-analyst",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Analyst",
+    "href": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+    "slug": "ibm-data-analyst",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Analyst Capstone Project",
+    "href": "https://www.coursera.org/learn/ibm-data-analyst-capstone-project",
+    "slug": "ibm-data-analyst-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Analytics with Excel and R",
+    "href": "https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel",
+    "slug": "ibm-data-analyst-r-excel",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Architecture",
+    "href": "https://www.coursera.org/professional-certificates/ibm-data-architect",
+    "slug": "ibm-data-architect",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Engineering",
+    "href": "https://www.coursera.org/professional-certificates/ibm-data-engineer",
+    "slug": "ibm-data-engineer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Management",
+    "href": "https://www.coursera.org/professional-certificates/ibm-data-manager",
+    "slug": "ibm-data-manager",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "DataOps Methodology",
+    "href": "https://www.coursera.org/learn/ibm-data-ops-methodology",
+    "slug": "ibm-data-ops-methodology",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Privacy for Information Architecture",
+    "href": "https://www.coursera.org/learn/ibm-data-privacy",
+    "slug": "ibm-data-privacy",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Science",
+    "href": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "slug": "ibm-data-science",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Data Topology",
+    "href": "https://www.coursera.org/learn/ibm-data-topology",
+    "slug": "ibm-data-topology",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Deep Learning with PyTorch, Keras and Tensorflow",
+    "href": "https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow",
+    "slug": "ibm-deep-learning-with-pytorch-keras-tensorflow",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Digital Marketing and Growth Hacking with GenAI",
+    "href": "https://www.coursera.org/professional-certificates/ibm-digital-marketing-and-growth-hacking",
+    "slug": "ibm-digital-marketing-and-growth-hacking",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Ethical Hacking with Open Source Tools",
+    "href": "https://www.coursera.org/professional-certificates/ibm-ethical-hacking-with-open-source-tools",
+    "slug": "ibm-ethical-hacking-with-open-source-tools",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Exploratory Data Analysis for Machine Learning",
+    "href": "https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning",
+    "slug": "ibm-exploratory-data-analysis-for-machine-learning",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Front-End Developer",
+    "href": "https://www.coursera.org/professional-certificates/ibm-frontend-developer",
+    "slug": "ibm-frontend-developer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Full Stack Software Developer",
+    "href": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer",
+    "slug": "ibm-full-stack-cloud-developer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Full-Stack JavaScript Developer",
+    "href": "https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer",
+    "slug": "ibm-full-stack-javascript-developer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Generative AI Engineering",
+    "href": "https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering",
+    "slug": "ibm-generative-ai-engineering",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Hybrid Cloud Architect",
+    "href": "https://www.coursera.org/professional-certificates/ibm-hybrid-cloud-architect",
+    "slug": "ibm-hybrid-cloud-architect",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Incident Response and Digital Forensics",
+    "href": "https://www.coursera.org/learn/ibm-incident-response-digital-forensics",
+    "slug": "ibm-incident-response-digital-forensics",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Introduction to Machine Learning",
+    "href": "https://www.coursera.org/specializations/ibm-intro-machine-learning",
+    "slug": "ibm-intro-machine-learning",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM iOS and Android Mobile App Developer",
+    "href": "https://www.coursera.org/professional-certificates/ibm-ios-android-mobile-app-developer-pc",
+    "slug": "ibm-ios-android-mobile-app-developer-pc",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM IT Project Manager",
+    "href": "https://www.coursera.org/professional-certificates/ibm-it-project-manager",
+    "slug": "ibm-it-project-manager",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM IT Scrum Master",
+    "href": "https://www.coursera.org/professional-certificates/ibm-it-scrum-master",
+    "slug": "ibm-it-scrum-master",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Machine Learning",
+    "href": "https://www.coursera.org/professional-certificates/ibm-machine-learning",
+    "slug": "ibm-machine-learning",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Mainframe Developer",
+    "href": "https://www.coursera.org/professional-certificates/ibm-mainframe-developer",
+    "slug": "ibm-mainframe-developer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Penetration Testing, Threat Hunting, and Cryptography",
+    "href": "https://www.coursera.org/learn/ibm-penetration-testing-threat-hunting-cryptography",
+    "slug": "ibm-penetration-testing-threat-hunting-cryptography",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Product Manager",
+    "href": "https://www.coursera.org/professional-certificates/ibm-product-manager",
+    "slug": "ibm-product-manager",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Product Owner",
+    "href": "https://www.coursera.org/professional-certificates/ibm-product-owner",
+    "slug": "ibm-product-owner",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Program Manager",
+    "href": "https://www.coursera.org/professional-certificates/ibm-program-manager",
+    "slug": "ibm-program-manager",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Project Management Capstone",
+    "href": "https://www.coursera.org/learn/ibm-project-management-capstone",
+    "slug": "ibm-project-management-capstone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Project Manager",
+    "href": "https://www.coursera.org/professional-certificates/ibm-project-manager",
+    "slug": "ibm-project-manager",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM RAG and Agentic AI",
+    "href": "https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai",
+    "slug": "ibm-rag-and-agentic-ai",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Machine Learning Rapid Prototyping with IBM Watson Studio",
+    "href": "https://www.coursera.org/learn/ibm-rapid-prototyping-watson-studio-autoai",
+    "slug": "ibm-rapid-prototyping-watson-studio-autoai",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Relational Database Administrator with GenAI",
+    "href": "https://www.coursera.org/professional-certificates/ibm-relational-database-administrator",
+    "slug": "ibm-relational-database-administrator",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Learn Enterprise Data Storage with IBM Storage Scale",
+    "href": "https://www.coursera.org/specializations/ibm-storage-scale",
+    "slug": "ibm-storage-scale",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Storage Scale Administration",
+    "href": "https://www.coursera.org/learn/ibm-storage-scale-administration",
+    "slug": "ibm-storage-scale-administration",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Storage Fundamentals with IBM Storage Scale",
+    "href": "https://www.coursera.org/learn/ibm-storage-scale-fundamentals",
+    "slug": "ibm-storage-scale-fundamentals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Storage Scale Remote Data Access",
+    "href": "https://www.coursera.org/learn/ibm-storage-scale-remote-data-access",
+    "slug": "ibm-storage-scale-remote-data-access",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Systems Analyst",
+    "href": "https://www.coursera.org/professional-certificates/ibm-systems-analyst",
+    "slug": "ibm-systems-analyst",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Systems and Solutions Architect",
+    "href": "https://www.coursera.org/professional-certificates/ibm-systems-and-solutions-architect",
+    "slug": "ibm-systems-and-solutions-architect",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM IT Support",
+    "href": "https://www.coursera.org/professional-certificates/ibm-technical-support",
+    "slug": "ibm-technical-support",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM UI/UX Designer",
+    "href": "https://www.coursera.org/professional-certificates/ibm-ui-ux-designer",
+    "slug": "ibm-ui-ux-designer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Unsupervised Machine Learning",
+    "href": "https://www.coursera.org/learn/ibm-unsupervised-machine-learning",
+    "slug": "ibm-unsupervised-machine-learning",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM z/OS Mainframe Practitioner",
+    "href": "https://www.coursera.org/professional-certificates/ibm-z-mainframe",
+    "slug": "ibm-z-mainframe",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Incident Response and Defense with OpenVAS",
+    "href": "https://www.coursera.org/learn/incident-response-and-defense-with-openvas",
+    "slug": "incident-response-and-defense-with-openvas",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Information Technology (IT) Fundamentals for Everyone",
+    "href": "https://www.coursera.org/learn/information-technology-it-fundamentals-for-everyone",
+    "slug": "information-technology-it-fundamentals-for-everyone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Node.js & MongoDB: Developing Back-end Database Applications",
+    "href": "https://www.coursera.org/learn/intermediate-back-end-development-with-node-js-mongodb",
+    "slug": "intermediate-back-end-development-with-node-js-mongodb",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Intermediate Web and Front-End Development",
+    "href": "https://www.coursera.org/learn/intermediate-web-and-front-end-development",
+    "slug": "intermediate-web-and-front-end-development",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Developing Interpersonal Skills",
+    "href": "https://www.coursera.org/learn/interpersonal-skills",
+    "slug": "interpersonal-skills",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to DevOps",
+    "href": "https://www.coursera.org/learn/intro-to-devops",
+    "slug": "intro-to-devops",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introducing z/OS UNIX System Services",
+    "href": "https://www.coursera.org/learn/introducing-zos-unix-system-services",
+    "slug": "introducing-zos-unix-system-services",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Computer Vision and Image Processing",
+    "href": "https://www.coursera.org/learn/introduction-computer-vision-watson-opencv",
+    "slug": "introduction-computer-vision-watson-opencv",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Cybersecurity Tools & Cyberattacks",
+    "href": "https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks",
+    "slug": "introduction-cybersecurity-cyber-attacks",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Data Science",
+    "href": "https://www.coursera.org/specializations/introduction-data-science",
+    "slug": "introduction-data-science",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Enterprise Computing",
+    "href": "https://www.coursera.org/learn/introduction-enterprise-computing",
+    "slug": "introduction-enterprise-computing",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to HTML, CSS, & JavaScript",
+    "href": "https://www.coursera.org/learn/introduction-html-css-javascript",
+    "slug": "introduction-html-css-javascript",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Software, Programming, and Databases",
+    "href": "https://www.coursera.org/learn/introduction-software-programming-and-databases",
+    "slug": "introduction-software-programming-and-databases",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to the Threat Intelligence Lifecycle",
+    "href": "https://www.coursera.org/learn/introduction-threat-intelligence-lifecycle",
+    "slug": "introduction-threat-intelligence-lifecycle",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "href": "https://www.coursera.org/learn/introduction-to-ai",
+    "slug": "introduction-to-ai",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Big Data with Spark and Hadoop",
+    "href": "https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop",
+    "slug": "introduction-to-big-data-with-spark-hadoop",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Business Analysis",
+    "href": "https://www.coursera.org/learn/introduction-to-business-analysis",
+    "slug": "introduction-to-business-analysis",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Cloud Computing",
+    "href": "https://www.coursera.org/learn/introduction-to-cloud",
+    "slug": "introduction-to-cloud",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Cybersecurity Careers",
+    "href": "https://www.coursera.org/learn/introduction-to-cybersecurity-careers",
+    "slug": "introduction-to-cybersecurity-careers",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Cybersecurity Essentials",
+    "href": "https://www.coursera.org/learn/introduction-to-cybersecurity-essentials",
+    "slug": "introduction-to-cybersecurity-essentials",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Data Analytics",
+    "href": "https://www.coursera.org/learn/introduction-to-data-analytics",
+    "slug": "introduction-to-data-analytics",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Data Engineering",
+    "href": "https://www.coursera.org/learn/introduction-to-data-engineering",
+    "slug": "introduction-to-data-engineering",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Deep Learning & Neural Networks with Keras",
+    "href": "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras",
+    "slug": "introduction-to-deep-learning-with-keras",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Digital Marketing",
+    "href": "https://www.coursera.org/learn/introduction-to-digital-marketing",
+    "slug": "introduction-to-digital-marketing",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Hardware and Operating Systems",
+    "href": "https://www.coursera.org/learn/introduction-to-hardware-and-operating-systems",
+    "slug": "introduction-to-hardware-and-operating-systems",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Mobile App Development",
+    "href": "https://www.coursera.org/learn/introduction-to-mobile-app-development",
+    "slug": "introduction-to-mobile-app-development",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Networking and Storage",
+    "href": "https://www.coursera.org/learn/introduction-to-networking-and-storage",
+    "slug": "introduction-to-networking-and-storage",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to NoSQL Databases",
+    "href": "https://www.coursera.org/learn/introduction-to-nosql-databases",
+    "slug": "introduction-to-nosql-databases",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Program Management",
+    "href": "https://www.coursera.org/learn/introduction-to-program-management",
+    "slug": "introduction-to-program-management",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Project Management",
+    "href": "https://www.coursera.org/learn/introduction-to-project-management",
+    "slug": "introduction-to-project-management",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Relational Databases (RDBMS)",
+    "href": "https://www.coursera.org/learn/introduction-to-relational-databases",
+    "slug": "introduction-to-relational-databases",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Software Engineering",
+    "href": "https://www.coursera.org/learn/introduction-to-software-engineering",
+    "slug": "introduction-to-software-engineering",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Systems Analysis",
+    "href": "https://www.coursera.org/learn/introduction-to-systems-analysis",
+    "slug": "introduction-to-systems-analysis",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Systems Architecture",
+    "href": "https://www.coursera.org/learn/introduction-to-systems-architecture",
+    "slug": "introduction-to-systems-architecture",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Technical Support",
+    "href": "https://www.coursera.org/learn/introduction-to-technical-support",
+    "slug": "introduction-to-technical-support",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to UX/UI Design",
+    "href": "https://www.coursera.org/learn/introduction-to-uxui-design",
+    "slug": "introduction-to-uxui-design",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Web Development with HTML, CSS, JavaScript",
+    "href": "https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript",
+    "slug": "introduction-to-web-development-with-html-css-javacript",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to R Programming for Data Science",
+    "href": "https://www.coursera.org/learn/introducton-r-programming-data-science",
+    "slug": "introducton-r-programming-data-science",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Information Technology (IT) and Cloud Fundamentals",
+    "href": "https://www.coursera.org/specializations/it-cloud-fundamentals",
+    "slug": "it-cloud-fundamentals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IT Fundamentals for Cybersecurity",
+    "href": "https://www.coursera.org/specializations/it-fundamentals-cybersecurity",
+    "slug": "it-fundamentals-cybersecurity",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM Java Developer",
+    "href": "https://www.coursera.org/professional-certificates/java-developer",
+    "slug": "java-developer",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Java Development Capstone Project",
+    "href": "https://www.coursera.org/learn/java-development-capstone-project",
+    "slug": "java-development-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Java Programming for Beginners",
+    "href": "https://www.coursera.org/learn/java-for-programming-beginners",
+    "slug": "java-for-programming-beginners",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Java Programming Fundamentals",
+    "href": "https://www.coursera.org/specializations/java-programming-fundamentals",
+    "slug": "java-programming-fundamentals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "JavaScript Back-end Capstone Project",
+    "href": "https://www.coursera.org/learn/javascript-backend-capstone-project",
+    "slug": "javascript-backend-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "JavaScript Full Stack Capstone Project",
+    "href": "https://www.coursera.org/learn/javascript-full-stack-capstone-project",
+    "slug": "javascript-full-stack-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "JavaScript Programming Essentials",
+    "href": "https://www.coursera.org/learn/javascript-programming-essentials",
+    "slug": "javascript-programming-essentials",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "JavaScript Programming with React, Node & MongoDB",
+    "href": "https://www.coursera.org/specializations/javascript-programming-with-react-node-mongodb",
+    "slug": "javascript-programming-with-react-node-mongodb",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Key Technologies for Business",
+    "href": "https://www.coursera.org/specializations/key-technologies-for-business",
+    "slug": "key-technologies-for-business",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Linux for AIX System Administrators",
+    "href": "https://www.coursera.org/learn/linux-for-aix-system-administrators",
+    "slug": "linux-for-aix-system-administrators",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Linux on LinuxONE",
+    "href": "https://www.coursera.org/learn/linux-on-linuxone",
+    "slug": "linux-on-linuxone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Linux and Private Cloud Administration on IBM Power Systems",
+    "href": "https://www.coursera.org/specializations/linux-private-cloud-administration-power-systems",
+    "slug": "linux-private-cloud-administration-power-systems",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Linux System Administration with IBM Power Systems",
+    "href": "https://www.coursera.org/learn/linux-system-administration-ibm-power-systems",
+    "slug": "linux-system-administration-ibm-power-systems",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Scalable Machine Learning on Big Data using Apache Spark",
+    "href": "https://www.coursera.org/learn/machine-learning-big-data-apache-spark",
+    "slug": "machine-learning-big-data-apache-spark",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Machine Learning Capstone",
+    "href": "https://www.coursera.org/learn/machine-learning-capstone",
+    "slug": "machine-learning-capstone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Machine Learning Introduction for Everyone",
+    "href": "https://www.coursera.org/learn/machine-learning-introduction-for-everyone",
+    "slug": "machine-learning-introduction-for-everyone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Machine Learning with Apache Spark",
+    "href": "https://www.coursera.org/learn/machine-learning-with-apache-spark",
+    "slug": "machine-learning-with-apache-spark",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Machine Learning with Python",
+    "href": "https://www.coursera.org/learn/machine-learning-with-python",
+    "slug": "machine-learning-with-python",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Malware Analysis and Introduction to Assembly Language",
+    "href": "https://www.coursera.org/learn/malware-analysis-and-assembly",
+    "slug": "malware-analysis-and-assembly",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Mastering Operating Systems with IBM AIX",
+    "href": "https://www.coursera.org/specializations/mastering-operating-systems-with-ibm-aix",
+    "slug": "mastering-operating-systems-with-ibm-aix",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "How to Modernize applications with IBM CICS",
+    "href": "https://www.coursera.org/learn/modernize-applications-ibm-cics",
+    "slug": "modernize-applications-ibm-cics",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Monitoring and Observability for Development and DevOps",
+    "href": "https://www.coursera.org/learn/monitoring-and-observability-for-development-and-devops",
+    "slug": "monitoring-and-observability-for-development-and-devops",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Computer Networks and Network Security",
+    "href": "https://www.coursera.org/learn/network-security-database-vulnerabilities",
+    "slug": "network-security-database-vulnerabilities",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "NoSQL, Big Data, and Spark Foundations",
+    "href": "https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations",
+    "slug": "nosql-big-data-and-spark-foundations",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Object Oriented Programming in Java",
+    "href": "https://www.coursera.org/learn/object-oriented-program-in-java",
+    "slug": "object-oriented-program-in-java",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Tools for Data Science",
+    "href": "https://www.coursera.org/learn/open-source-tools-for-data-science",
+    "slug": "open-source-tools-for-data-science",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Operating Systems: Overview, Administration, and Security",
+    "href": "https://www.coursera.org/learn/operating-systems-overview-administration-security",
+    "slug": "operating-systems-overview-administration-security",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "People & Soft Skills: Essential for Professional Success",
+    "href": "https://www.coursera.org/specializations/people-and-soft-skills-for-professional-success",
+    "slug": "people-and-soft-skills-for-professional-success",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "People and Soft Skills Assessment",
+    "href": "https://www.coursera.org/learn/people-soft-skills-assessment",
+    "slug": "people-soft-skills-assessment",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Practice Exams for CompTIA A+ Certification: Core 1 & Core 2",
+    "href": "https://www.coursera.org/learn/practice-exam-for-comptia-a",
+    "slug": "practice-exam-for-comptia-a",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Practice Exam for CompTIA Tech+ Certification",
+    "href": "https://www.coursera.org/learn/practice-exam-for-comptia-itf-plus-certification",
+    "slug": "practice-exam-for-comptia-itf-plus-certification",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Preparation for CompTIA A+ Certification",
+    "href": "https://www.coursera.org/specializations/preparation-comptia-certification",
+    "slug": "preparation-comptia-certification",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Present with Purpose: Create/Deliver Effective Presentations",
+    "href": "https://www.coursera.org/learn/present-with-purpose",
+    "slug": "present-with-purpose",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Product Management: An Introduction",
+    "href": "https://www.coursera.org/learn/product-management-an-introduction",
+    "slug": "product-management-an-introduction",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Product Management: Capstone Project",
+    "href": "https://www.coursera.org/learn/product-management-capstone",
+    "slug": "product-management-capstone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Product Owner Capstone",
+    "href": "https://www.coursera.org/learn/product-owner-capstone",
+    "slug": "product-owner-capstone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Program Manager Capstone",
+    "href": "https://www.coursera.org/learn/program-manager-capstone",
+    "slug": "program-manager-capstone",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Project: Generative AI Applications with RAG and LangChain",
+    "href": "https://www.coursera.org/learn/project-generative-ai-applications-with-rag-and-langchain",
+    "slug": "project-generative-ai-applications-with-rag-and-langchain",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Project Management Job Search, Resume, and Interview Prep",
+    "href": "https://www.coursera.org/learn/project-management-career-guide-and-interview-prep",
+    "slug": "project-management-career-guide-and-interview-prep",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Python for Data Science, AI & Development",
+    "href": "https://www.coursera.org/learn/python-for-applied-data-science-ai",
+    "slug": "python-for-applied-data-science-ai",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Data Visualization with Python",
+    "href": "https://www.coursera.org/learn/python-for-data-visualization",
+    "slug": "python-for-data-visualization",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Developing AI Applications with Python and Flask",
+    "href": "https://www.coursera.org/learn/python-project-for-ai-application-development",
+    "slug": "python-project-for-ai-application-development",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Python Project for Data Engineering",
+    "href": "https://www.coursera.org/learn/python-project-for-data-engineering",
+    "slug": "python-project-for-data-engineering",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Python Project for Data Science",
+    "href": "https://www.coursera.org/learn/python-project-for-data-science",
+    "slug": "python-project-for-data-science",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "RAG for Generative AI Applications",
+    "href": "https://www.coursera.org/specializations/rag-for-generative-ai-applications",
+    "slug": "rag-for-generative-ai-applications",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Relational Database Administration (DBA)",
+    "href": "https://www.coursera.org/learn/relational-database-administration",
+    "slug": "relational-database-administration",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Relational Database Administration Capstone Project",
+    "href": "https://www.coursera.org/learn/relational-database-administration-capstone-project",
+    "slug": "relational-database-administration-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Search Engine Optimization and Content Marketing",
+    "href": "https://www.coursera.org/learn/search-engine-optimization-and-content-marketing",
+    "slug": "search-engine-optimization-and-content-marketing",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Security Analyst Fundamentals",
+    "href": "https://www.coursera.org/specializations/security-analyst-fundamentals",
+    "slug": "security-analyst-fundamentals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "SEO Mastery: From Fundamentals to GenAI and GEO Strategies",
+    "href": "https://www.coursera.org/specializations/seo-mastery-from-fundamentals-to-genai-and-geo-strategies",
+    "slug": "seo-mastery-from-fundamentals-to-genai-and-geo-strategies",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "SMP/E for z/OS Workshop",
+    "href": "https://www.coursera.org/learn/smpe-for-zos-workshop",
+    "slug": "smpe-for-zos-workshop",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Software Developer Career Guide and Interview Preparation",
+    "href": "https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation",
+    "slug": "software-developer-career-guide-and-interview-preparation",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM COBOL Software Development Practices",
+    "href": "https://www.coursera.org/learn/software-development-practices",
+    "slug": "software-development-practices",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM COBOL Software Development Process",
+    "href": "https://www.coursera.org/learn/software-development-proccess",
+    "slug": "software-development-proccess",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Applied Software Engineering Fundamentals",
+    "href": "https://www.coursera.org/specializations/software-engineering-fundamentals",
+    "slug": "software-engineering-fundamentals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Software Testing, Deployment, and Maintenance Strategies",
+    "href": "https://www.coursera.org/learn/software-testing-deployment-and-maintenance-strategies",
+    "slug": "software-testing-deployment-and-maintenance-strategies",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Solving Problems with Creative and Critical Thinking",
+    "href": "https://www.coursera.org/learn/solving-problems-with-creative-and-critical-thinking",
+    "slug": "solving-problems-with-creative-and-critical-thinking",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Databases and SQL for Data Science with Python",
+    "href": "https://www.coursera.org/learn/sql-data-science",
+    "slug": "sql-data-science",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "SQL for Data Science with R",
+    "href": "https://www.coursera.org/learn/sql-data-science-r",
+    "slug": "sql-data-science-r",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "SQL: A Practical Introduction for Querying Databases",
+    "href": "https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases",
+    "slug": "sql-practical-introduction-for-querying-databases",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Statistics for Data Science with Python",
+    "href": "https://www.coursera.org/learn/statistics-for-data-science-python",
+    "slug": "statistics-for-data-science-python",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Statistical Analysis Fundamentals using Excel",
+    "href": "https://www.coursera.org/learn/statistics-fundamentals-using-excel",
+    "slug": "statistics-fundamentals-using-excel",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Supervised Machine Learning: Classification",
+    "href": "https://www.coursera.org/learn/supervised-machine-learning-classification",
+    "slug": "supervised-machine-learning-classification",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Supervised Machine Learning: Regression",
+    "href": "https://www.coursera.org/learn/supervised-machine-learning-regression",
+    "slug": "supervised-machine-learning-regression",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "System Administration with IBM AIX: Getting Started",
+    "href": "https://www.coursera.org/learn/system-administration-with-ibm-aix",
+    "slug": "system-administration-with-ibm-aix",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "System Administration with IBM AIX: Beyond the Basics",
+    "href": "https://www.coursera.org/learn/system-administration-with-ibm-aix-beyond-the-basics",
+    "slug": "system-administration-with-ibm-aix-beyond-the-basics",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Basic System Programming on IBM Z",
+    "href": "https://www.coursera.org/learn/system-programming",
+    "slug": "system-programming",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Systems Analyst Capstone Project",
+    "href": "https://www.coursera.org/learn/systems-analyst-capstone-project",
+    "slug": "systems-analyst-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Systems and Solutions Architect Capstone Project",
+    "href": "https://www.coursera.org/learn/systems-and-solutions-architect-capstone-project",
+    "slug": "systems-and-solutions-architect-capstone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Tech Support Career Guide and Interview Preparation",
+    "href": "https://www.coursera.org/learn/tech-support-career-guide-and-interview-preparation",
+    "slug": "tech-support-career-guide-and-interview-preparation",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Technical Support (IT) Case Studies and Capstone",
+    "href": "https://www.coursera.org/learn/technical-support-case-studies",
+    "slug": "technical-support-case-studies",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Introduction to Test and Behavior Driven Development",
+    "href": "https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd",
+    "slug": "test-and-behavior-driven-development-tdd-bdd",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Specialized Models: Time Series and Survival Analysis",
+    "href": "https://www.coursera.org/learn/time-series-survival-analysis",
+    "slug": "time-series-survival-analysis",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "UX Research and Information Architecture",
+    "href": "https://www.coursera.org/learn/ux-research-and-information-architecture",
+    "slug": "ux-research-and-information-architecture",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Capstone Project: Applying UI/UX Design in the Real World",
+    "href": "https://www.coursera.org/learn/ux-ui-captsone-project",
+    "slug": "ux-ui-captsone-project",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Vector Database Fundamentals",
+    "href": "https://www.coursera.org/specializations/vector-database-fundamentals",
+    "slug": "vector-database-fundamentals",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Vector Database Projects: AI Recommendation Systems",
+    "href": "https://www.coursera.org/learn/vector-database-projects-ai-recommendation-systems",
+    "slug": "vector-database-projects-ai-recommendation-systems",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Vector Databases for RAG: An Introduction",
+    "href": "https://www.coursera.org/learn/vector-databases-for-rag-an-introduction",
+    "slug": "vector-databases-for-rag-an-introduction",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Vector Databases: An Introduction with Chroma DB",
+    "href": "https://www.coursera.org/learn/vector-databases-introduction-with-chromadb",
+    "slug": "vector-databases-introduction-with-chromadb",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "What is Data Science?",
+    "href": "https://www.coursera.org/learn/what-is-datascience",
+    "slug": "what-is-datascience",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "데이터 과학이란 무엇인가?",
+    "href": "https://www.coursera.org/learn/what-is-datascience-ko",
+    "slug": "what-is-datascience-ko",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "Getting Started on Mainframe with z/OS Commands and Panels",
+    "href": "https://www.coursera.org/learn/z-commands-and-panels",
+    "slug": "z-commands-and-panels",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "z/Architecture Assembler Language Part 1: The Basics",
+    "href": "https://www.coursera.org/learn/zarchitecture-assembler-language-part-1-the-basics",
+    "slug": "zarchitecture-assembler-language-part-1-the-basics",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "z/Architecture Assembler Language Pt 2: Machine Instructions",
+    "href": "https://www.coursera.org/learn/zarchitecture-assembler-language-pt-2-machine-instructions",
+    "slug": "zarchitecture-assembler-language-pt-2-machine-instructions",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "IBM z/OS Rexx Programming",
+    "href": "https://www.coursera.org/learn/zos-rexx-programming",
+    "slug": "zos-rexx-programming",
+    "partner": "IBM",
+    "is_coursera": true
+  },
+  {
+    "title": "z/OS System Services Structure",
+    "href": "https://www.coursera.org/learn/zos-system-services-structure",
+    "slug": "zos-system-services-structure",
+    "partner": "IBM",
+    "is_coursera": true
+  }
+]
