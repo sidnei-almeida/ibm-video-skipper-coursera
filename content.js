@@ -12,8 +12,8 @@
  * 3) scan() anexa vídeos só com base na superfície Coursera; o skip só corre se shouldSkip… for true.
  */
 (() => {
-  /** Set to `false` before release to silence console diagnostics. */
-  const DEBUG = true;
+  /** Set to `true` only when debugging manually. */
+  const DEBUG = false;
   const dbg = (...args) => {
     if (DEBUG) console.log("[ibm-skipper]", ...args);
   };
@@ -21,9 +21,9 @@
   const INTRO_SEC = 6.5;
   const OUTRO_SEC = 5.5;
   const INTRO_START_MAX = 0.35;
-  // false = fail-open em páginas de aula Coursera (recomendado para robustez).
+  // false = fail-open em páginas de aula Coursera.
   // true = só salta quando sinais IBM forem detetados.
-  const STRICT_IBM_ONLY = false;
+  const STRICT_IBM_ONLY = true;
   const IBM_KNOWN_COURSE_SLUGS = new Set([
     // AUTO-GENERATED-IBM-SLUGS-START
     "advanced-deep-learning-with-pytorch",
@@ -486,13 +486,63 @@
     return courseSlugFromPath(location.pathname).toLowerCase().includes("ibm");
   }
 
-  function knownIbmSlugSuggestsIbm() {
-    for (const p of courseraFramePaths()) {
-      const slug = courseSlugFromPath(p).toLowerCase();
-      if (slug && IBM_KNOWN_COURSE_SLUGS.has(slug)) return true;
+  function extractCourseLikeSlugsFromDoc(doc) {
+    const out = new Set();
+
+    const addSlugFromPath = (path) => {
+      const slug = courseSlugFromPath(path).toLowerCase();
+      if (slug) out.add(slug);
+    };
+
+    addSlugFromPath(doc.location?.pathname || "");
+
+    const hrefAttrs = doc.querySelectorAll(
+      'a[href*="/learn/"], a[href*="/professional-certificates/"], a[href*="/specializations/"], link[rel="canonical"]',
+    );
+    for (const el of hrefAttrs) {
+      const href = el.getAttribute("href") || "";
+      if (!href) continue;
+      try {
+        const u = new URL(href, doc.location?.origin || location.origin);
+        addSlugFromPath(u.pathname || "");
+      } catch (_) {
+        /* ignore malformed URLs */
+      }
     }
-    const selfSlug = courseSlugFromPath(location.pathname).toLowerCase();
-    return !!selfSlug && IBM_KNOWN_COURSE_SLUGS.has(selfSlug);
+
+    const metaUrl = doc.querySelector('meta[property="og:url"]')?.getAttribute("content");
+    if (metaUrl) {
+      try {
+        const u = new URL(metaUrl, doc.location?.origin || location.origin);
+        addSlugFromPath(u.pathname || "");
+      } catch (_) {
+        /* ignore */
+      }
+    }
+
+    return out;
+  }
+
+  function candidateCourseSlugs() {
+    const out = new Set();
+    const add = (slug) => {
+      const s = String(slug || "").toLowerCase().trim();
+      if (s) out.add(s);
+    };
+
+    add(courseSlugFromPath(location.pathname));
+    for (const p of courseraFramePaths()) add(courseSlugFromPath(p));
+    for (const doc of courseraDocumentsForSignals()) {
+      for (const s of extractCourseLikeSlugsFromDoc(doc)) add(s);
+    }
+    return out;
+  }
+
+  function knownIbmSlugSuggestsIbm() {
+    for (const slug of candidateCourseSlugs()) {
+      if (IBM_KNOWN_COURSE_SLUGS.has(slug)) return true;
+    }
+    return false;
   }
 
   function domSuggestsIbm() {
@@ -556,10 +606,31 @@
     );
   }
 
+  const decisionCache = {
+    key: "",
+    at: 0,
+    shouldSkip: false,
+  };
+
+  function resetDecisionCache() {
+    decisionCache.key = "";
+    decisionCache.at = 0;
+    decisionCache.shouldSkip = false;
+  }
+
   function shouldSkipIbmCourseraVideos() {
     if (!isCourseraLearningSurface()) return false;
-    if (!STRICT_IBM_ONLY) return true;
-    return ibmSignalsDetected();
+    const key = location.href;
+    const now = Date.now();
+    if (decisionCache.key === key && now - decisionCache.at < 1500) {
+      return decisionCache.shouldSkip;
+    }
+    const signals = ibmSignalsDetected();
+    const should = !STRICT_IBM_ONLY || signals;
+    decisionCache.key = key;
+    decisionCache.at = now;
+    decisionCache.shouldSkip = should;
+    return should;
   }
 
   dbg("loaded", location.href);
@@ -670,8 +741,13 @@
 
   const mo = new MutationObserver(() => debouncedScan());
   mo.observe(document.documentElement, { childList: true, subtree: true });
+  // Metadados/links podem mudar após navegação SPA; invalida cache de decisão.
+  const invalidateOnMutation = debounce(resetDecisionCache, 300);
+  const moInvalidate = new MutationObserver(() => invalidateOnMutation());
+  moInvalidate.observe(document.documentElement, { childList: true, subtree: true });
 
   function onNavigation() {
+    resetDecisionCache();
     debouncedScan();
   }
 

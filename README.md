@@ -15,6 +15,12 @@
   Maintainer: <a href="https://github.com/sidnei-almeida">@sidnei-almeida</a>
 </p>
 
+<p align="center">
+  <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions"><img alt="WebExtension" src="https://img.shields.io/badge/WebExtension-Firefox-orange.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/manifest_version"><img alt="Manifest V3" src="https://img.shields.io/badge/Manifest-V3-blue.svg" /></a>
+</p>
+
 ---
 
 ## Executive summary
@@ -30,6 +36,15 @@ IBM Skills Network productions on Coursera frequently prepend and append short b
 **Operational research finding:** when studying **after civil twilight**, learners often reduce playback volume to maintain domestic tranquility. Unfortunately, **bass energy** does not always respect roommate sleep schedules, door frames, or the Geneva Conventions of shared housing. The result is a recurring conflict between *course completion KPIs* and *interpersonal harmony KPIs*.
 
 This extension does not judge the creative direction of corporate bumper audio. It simply **removes the temporal window** in which that creative direction is most likely to occur—without altering Coursera’s platform behavior elsewhere.
+
+---
+
+## Quick links
+
+- Repository: [sidnei-almeida/ibm-video-skipper-coursera](https://github.com/sidnei-almeida/ibm-video-skipper-coursera)
+- License: [MIT](./LICENSE)
+- Mozilla extension docs: [MDN WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+- Coursera IBM query used by scraper: [coursera.org/search?query=ibm](https://www.coursera.org/search?query=ibm)
 
 ---
 
@@ -120,6 +135,8 @@ flowchart LR
 
 For repeatable builds and signing workflows, see Mozilla’s [Extension Workshop](https://extensionworkshop.com/) documentation.
 
+> Tip: if temporary add-ons are disabled after browser restart, reload from `about:debugging`.
+
 ---
 
 ## Configuration
@@ -198,4 +215,8 @@ Console report:
 
 ## License
 
-This project is licensed under the **MIT License**. See `LICENSE` for full terms.
+This project is licensed under the **MIT License**.
+
+- License file in this repository: [`LICENSE`](./LICENSE)
+- SPDX identifier: `MIT`
+- Standard text reference: [opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
