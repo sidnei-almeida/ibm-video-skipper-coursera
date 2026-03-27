@@ -1,7 +1,5 @@
-# IBM Video Skipper (Coursera)
-
 <p align="center">
-  <img src="icons/icon-128.png" alt="Extension icon" width="96" height="96" />
+  <img src="logos/long_logo.png" alt="IBM Video Skipper (Coursera)" width="720" />
 </p>
 
 <p align="center">
