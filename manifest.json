@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "IBM Video Skipper (Coursera)",
+  "version": "1.0.0",
+  "description": "Pula a intro (~6,5 s) e o outro (~5 s) dos vídeos IBM no Coursera.",
+  "author": "sidnei-almeida",
+  "homepage_url": "https://github.com/sidnei-almeida/ibm-video-skipper-coursera",
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
+    },
+    "default_title": "IBM Video Skipper (Coursera)"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ibm-video-skipper@coursera.local",
+      "strict_min_version": "109.0"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.coursera.org/*", "*://coursera.org/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ]
+}
